@@ -1,1 +1,0 @@
-web: gunicor Init_viz:server
